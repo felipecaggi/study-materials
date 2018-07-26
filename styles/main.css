@@ -7,11 +7,10 @@ html, body {
 
 html {
     font-size: 10px;
-    background-color: #f9f9f9;
 }
 
 body {
-    width: 1300px;
+    background-color: black;
     margin: 0 auto;
 }
 
@@ -71,9 +70,14 @@ article a:hover {
 /* header layout */
 
 header {
-    background-color: black;
-    border: 2px solid black;
-    margin: 10px 0px 2px 0px;
+    background-color: rgba(234, 234, 234, 112);
+    margin: 10px 0px 0px 0px;
+    padding: 5px;
+}
+
+.logo {
+    height: 113px;  /* height of logo-with-name.png */
+    width: 397px;   /* width of logo-with-name.png  */
 }
 
 /* main layout */
