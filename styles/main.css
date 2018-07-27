@@ -10,22 +10,21 @@ html {
 }
 
 body {
-    background-color: black;
+    background-color: rgba(253, 159, 2, 255);
     margin: 0 auto;
 }
 
 /* typografy */
 
 h1, h2, h3, p {
-    font-family: cursive;
     color: #2a2a2a;
+    font-family: cursive;
 }
 
 h1 {
-    font-size: 4rem;
+    color: black;
+    font-size: 32pt;
     text-align: center;
-    color: #ffffff;
-    text-shadow: 1px 1px 5px red;
 }
 
 h2 {
@@ -69,22 +68,72 @@ article a:hover {
 
 /* header layout */
 
-header {
+#header-home-page {
     background-color: rgba(234, 234, 234, 112);
     margin: 10px 0px 0px 0px;
     padding: 5px;
 }
 
-.logo {
+#header-home-page .logo {
     height: 113px;  /* height of logo-with-name.png */
     width: 397px;   /* width of logo-with-name.png  */
 }
 
 /* main layout */
 
-main {
-    display: flex;
+#home-container {
+    display: block;
+    min-height: 800px;
 }
+
+#home-container .document-title {
+    background-color: rgba(244, 191, 103, 255);
+}
+
+#home-container .feature-containers {
+    display: flex;
+    list-style-type: none;
+    margin: auto;
+    padding: 0;
+    width: 1400px;
+}
+
+#home-container .feature-containers li {
+    list-style-type: none;
+}
+
+#home-container .feature-containers .container-title, #home-container .feature-containers .container-content {
+    background-color: rgba(88, 55, 1, 255);
+    height: 105px;
+    margin: 0px 8.3px;
+    width: 450px;
+}
+
+#home-container .feature-containers .container-title h2 {
+    color: white;
+    font-size: 28pt;
+    padding: 25.52875px;
+    text-align: center;
+}
+#home-container .feature-containers .container-content {
+    background-color: rgba(242, 201, 132, 255);
+    min-height: 250px;
+}
+
+#home-container .feature-containers .container-content .contents {
+    display: flex;
+    padding: 0;
+}
+
+#home-container .feature-containers .container-content .contents li {
+    margin: 5px auto;
+}
+
+img {
+    margin: 0;
+    padding: 0;
+}
+
 
 aside {
     flex: 1;
