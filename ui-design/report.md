@@ -1,0 +1,28 @@
+# Description
+
+    This archive contains information about the design of the website.
+
+## Status Report
+
+    29/08/2018 - Date of creation of the folder where this document is located;
+
+                 Created scalable-vector-graphics (svg) folder;
+                 Added file main.svg in svg folder;
+                 Added file html.svg in svg folder;
+
+                 Initial template for the main page completed;
+                 Initial template for the html page completed;
+
+                 Main page measurements entered;
+
+                 Created images folder;
+                 Added file main.png in images folder;
+                 Added file html.png in images folder.
+
+### Main page
+
+![Figure 1](images/main.png "Main page")
+
+### HTML page
+
+![Figure 2](images/html.png "Main page")
