@@ -19,6 +19,13 @@
                  Added file main.png in images folder;
                  Added file html.png in images folder.
 
+    30/08/2018 - HTML page measurements entered;
+                 Layers added in file html.svg;
+                 Updated html.png file;
+
+                 Layers added in file main.svg;
+                 Updatedx main.png file.
+
 ### Main page
 
 ![Figure 1](images/main.png "Main page")

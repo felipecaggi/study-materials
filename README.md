@@ -36,7 +36,10 @@ This repository is intended for a web application that contains information abou
 
     28/07/2018 - Working on website design.
 
-    29/07/2018 - Working on website design.
+    29/07/2018 - Design workspace transferred to the ui-design folder;
+                 Working on website design.
+
+    30/07/2018 - Working on website design.
 
 ## Acronyms
 
