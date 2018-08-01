@@ -41,6 +41,8 @@ This repository is intended for a web application that contains information abou
 
     30/07/2018 - Working on website design.
 
+    31/07/2018 - Branch for development HTML page.
+
 ## Acronyms
 
     SR - Status Report

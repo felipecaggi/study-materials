@@ -24,7 +24,7 @@
                  Updated html.png file;
 
                  Layers added in file main.svg;
-                 Updatedx main.png file.
+                 Updated main.png file.
 
 ### Main page
 
