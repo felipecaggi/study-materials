@@ -4,7 +4,7 @@
 
 ## Status Report
 
-    29/08/2018 - Date of creation of the folder where this document is located;
+    29/07/2018 - Date of creation of the folder where this document is located;
 
                  Created scalable-vector-graphics (svg) folder;
                  Added file main.svg in svg folder;
@@ -19,12 +19,18 @@
                  Added file main.png in images folder;
                  Added file html.png in images folder.
 
-    30/08/2018 - HTML page measurements entered;
+    30/07/2018 - HTML page measurements entered;
                  Layers added in file html.svg;
                  Updated html.png file;
 
                  Layers added in file main.svg;
                  Updated main.png file.
+
+    02/08/2018 - Updated main.svg file;
+                 Updated main.png file;
+
+                 Updated html.svg file;
+                 Updated html.png file;
 
 ### Main page
 
@@ -32,4 +38,4 @@
 
 ### HTML page
 
-![Figure 2](images/html.png "Main page")
+![Figure 2](images/html.png "Html page")
