@@ -1,5 +1,5 @@
 /* ~~~~~~~~~~~~~~~~~~~~ GENERAL SETUP ~~~~~~~~~~~~~~~~~~~~ */
-a, body, div, footer, h1, h2, header, 
+a, body, div, footer, h1, h2, header,
 html, img, li, main, ol, p, ul {
     border: 0;
     margin: 0;
@@ -7,7 +7,7 @@ html, img, li, main, ol, p, ul {
 }
 
 body {
-    background-color: rgba(253, 159, 2, 255);
+    background-color: white;
     margin: 0 auto;
 }
 
@@ -16,7 +16,6 @@ footer, header, main {
 }
 
 /* ~~~~~~~~~~~~~~~~~~ GENERAL TYPOGRAFY ~~~~~~~~~~~~~~~~~~ */
-
 html {
     color: black;
 }
@@ -27,18 +26,19 @@ body {
 }
 
 h1 {
-    font-size: 32pt;
+    font-size: 72pt;
+    line-height: 72px;
 }
 
 h2 {
-    font-size: 28pt;
+    font-size: 22pt;
 }
 
 p {
     margin-bottom: 24px;
 }
 
-a{
+a {
     text-decoration: none;
 }
 
@@ -54,70 +54,62 @@ ol, ul {
 #main-header {
     background-color: white;
     display: flex;
-    margin: 10px 0px 0px 0px;
-    padding: 5px;
+    margin: 15px 0px 0px 0px;
+    padding: 15px;
 }
 
 .header-logo {
-    height: 113px;
-    width: 397px;
+    height: 80px;
+    width: 280px;
 }
 
 /* ~~~~~~~~~~~~~~~~~~~~~~~~~ MAIN ~~~~~~~~~~~~~~~~~~~~~~~~~ */
-#home-container {
-    min-height: 800px;
+#main-container {
+    width: 1400px;
+    margin: auto;
 }
 
-.document-title {
-    background-color: rgba(244, 191, 103, 255);
+.document-tittle {
     margin-top: 30px;
 }
 
-.document-title h1 {
-    text-align: center;
-}
-
-.feature-containers {
+.feature-containers{
     display: flex;
-    margin: 30px auto;
-    width: 1400px;
-}
-
-.container-title, .container-content {
-    margin: 0px 8.3px;
-    width: 450px;
-}
-.container-title {
-    background-color: rgba(88, 55, 1, 255);
-    height: 105px;
+    margin: 5px auto;
 }
 
 .container-content {
-    background-color: rgba(242, 201, 132, 255);
-    min-height: 250px;
+    background-image: url("../../images/image-html-page.png");
+    height: 180px;
+    width: 330px;
 }
 
-.container-title h2 {
-    color: white;
-    padding: 25.52875px;
-    text-align: center;
+.feature-containers li {
+    padding: 10px;
 }
 
-.contents {
-    display: flex;
-    margin-top: 5px;
+.container-bar {
+    background-color: rgba(235, 90, 37, 255);
+    height: 5px;
 }
 
-.contents li {
-    margin: 5px auto;
+.bar-smaller {
+    margin: 5px 0px;
+    width: 350px;
 }
+
+.bar-biggester {
+    width: 1400px;
+}
+
 
 /* ~~~~~~~~~~~~~~~~~~~~~~~ FOOTER ~~~~~~~~~~~~~~~~~~~~~~~ */
 #footer {
     background-color: black;
     padding-bottom: 24px;
     padding-top: 24px;
-}        
+}
+
 .footer-content {
     display: flex;
     margin: auto;
@@ -125,13 +117,9 @@ ol, ul {
 }
 
 .footer-logo {
-    height: 113px;
-    width: 397px;
+    height: 80px;
+    width: 280px;
     padding-right: 30px;
-}
-
-.footer-logo {
-    float: left;
 }
 
 .footer-content-info {
@@ -144,10 +132,10 @@ ol, ul {
     font-weight: normal;
 }
 
-.social-links p{
+.social-links p {
     display: inline;
 }
 
 .social-links a:hover {
-    color:white;
+    color: white;
 }
