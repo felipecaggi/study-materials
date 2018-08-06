@@ -32,6 +32,14 @@
                  Updated html.svg file;
                  Updated html.png file;
 
+    03/08/2018 - Add sitemap.svg file;
+
+    05/08/2018 - Updated sitemap.svg file;
+
+                 Added file sitemap.png in images folder;
+                 Added file page-home.png in images folder;
+                 Added file page-html.png in images folder;
+
 ### Main page
 
 ![Figure 1](images/main.png "Main page")

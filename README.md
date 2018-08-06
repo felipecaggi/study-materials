@@ -34,14 +34,36 @@ This repository is intended for a web application that contains information abou
     27/07/2018 - Implemented new template of the footer section;
                  Code optimization of main.css file.
 
-    28/07/2018 - Working on website design.
+    28/07/2018 - Working on folder ui-design.
 
     29/07/2018 - Design workspace transferred to the ui-design folder;
                  Working on website design.
 
-    30/07/2018 - Working on website design.
+    30/07/2018 - Working on folder ui-design.
 
     31/07/2018 - Branch for development HTML page.
+
+    01/08/2018 - Implemented CSS of page html.
+
+    02/08/2018 - Working on folder ui-design;
+                 Updated HTML and CSS code of main page and html.
+
+    03/08/2018 - Working on folder ui-design.
+
+    05/08/2018 - Working on folder ui-design.
+
+
+## SITEMAP
+
+![Figure 1](ui-design/images/sitemap.png "Sitemap of site")
+
+### HOMEPAGE
+
+![Figure 1](ui-design/images/page-home.png "Main page")
+
+### HTML PAGE
+
+![Figure 2](ui-design/images/page-html.png "Html page")
 
 ## Acronyms
 
