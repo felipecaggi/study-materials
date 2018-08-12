@@ -40,6 +40,8 @@
                  Added file page-home.png in images folder;
                  Added file page-html.png in images folder;
 
+    11/08/2018 - Added file glossary.svg in svg folder.
+
 ### Main page
 
 ![Figure 1](images/main.png "Main page")

@@ -52,6 +52,8 @@ This repository is intended for a web application that contains information abou
 
     05/08/2018 - Working on folder ui-design.
 
+    11/08/2018 - Working on folder ui-design.
+
 
 ## SITEMAP
 
