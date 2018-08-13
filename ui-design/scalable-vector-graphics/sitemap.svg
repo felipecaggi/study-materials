@@ -345,17 +345,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.27583007"
-     inkscape:cx="185.83742"
-     inkscape:cy="134.48894"
+     inkscape:zoom="0.48454459"
+     inkscape:cx="305.33472"
+     inkscape:cy="611.64085"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
-     inkscape:window-width="1440"
-     inkscape:window-height="863"
-     inkscape:window-x="209"
-     inkscape:window-y="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="927"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata1399">
@@ -365,7 +365,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -374,6 +374,7 @@
      id="layer3"
      inkscape:label="background"
      transform="translate(0,54.58332)"
+     style="display:inline"
      sodipodi:insensitive="true">
     <rect
        style="opacity:1;fill:#87bcb6;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
@@ -397,317 +398,343 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-32.41668)"
+     style="display:inline"
      sodipodi:insensitive="true">
     <rect
-       y="178.98976"
-       x="-152.64655"
+       y="178.6615"
+       x="-118.2503"
        height="67.333046"
        width="42.033157"
        id="rect2962"
-       style="opacity:1;fill:#358086;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       style="display:inline;opacity:1;fill:#358086;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
        transform="rotate(-90)"
        inkscape:export-filename="/home/felipe/Documents/Projects/GitHub/study-materials/ui-design/images/sitemap.png"
        inkscape:export-xdpi="95.995491"
        inkscape:export-ydpi="95.995491" />
     <rect
-       style="opacity:1;fill:#358086;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       style="display:inline;opacity:1;fill:#358086;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
        id="rect2979"
        width="3.6920633"
        height="26.102888"
-       x="210.81024"
-       y="152.64655"
+       x="210.48199"
+       y="118.2503"
        inkscape:export-filename="/home/felipe/Documents/Projects/GitHub/study-materials/ui-design/images/sitemap.png"
        inkscape:export-xdpi="95.995491"
        inkscape:export-ydpi="95.995491" />
     <rect
        transform="rotate(-90)"
-       style="opacity:1;fill:#358086;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       style="display:inline;opacity:1;fill:#358086;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
        id="rect4009"
        width="42.0331"
        height="67.333046"
-       x="-220.78275"
-       y="178.44838"
+       x="-186.38649"
+       y="178.66162"
        inkscape:export-filename="/home/felipe/Documents/Projects/GitHub/study-materials/ui-design/images/sitemap.png"
        inkscape:export-xdpi="95.995491"
        inkscape:export-ydpi="95.995491" />
     <rect
-       y="177.01056"
-       x="-150.66711"
-       height="67.333046"
-       width="42.033157"
-       id="rect2981"
-       style="opacity:1;fill:#fff5ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
-       transform="rotate(-90)"
-       inkscape:export-filename="/home/felipe/Documents/Projects/GitHub/study-materials/ui-design/images/sitemap.png"
+       inkscape:export-ydpi="95.995491"
        inkscape:export-xdpi="95.995491"
-       inkscape:export-ydpi="95.995491" />
+       inkscape:export-filename="/home/felipe/Documents/Projects/GitHub/study-materials/ui-design/images/sitemap.png"
+       y="186.38649"
+       x="210.48212"
+       height="26.102888"
+       width="3.6920633"
+       id="rect5864"
+       style="display:inline;opacity:1;fill:#358086;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
     <rect
-       transform="rotate(-90)"
-       style="opacity:1;fill:#00000e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
-       id="rect3042"
-       width="14.158179"
+       inkscape:export-ydpi="95.995491"
+       inkscape:export-xdpi="95.995491"
+       inkscape:export-filename="/home/felipe/Documents/Projects/GitHub/study-materials/ui-design/images/sitemap.png"
+       y="178.66162"
+       x="-254.52248"
        height="67.333046"
-       x="-122.79215"
-       y="177.01056"
-       inkscape:export-filename="/home/felipe/Documents/Projects/GitHub/study-materials/ui-design/images/sitemap.png"
-       inkscape:export-xdpi="95.995491"
-       inkscape:export-ydpi="95.995491" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3032"
-       style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.9897334,0,0,0.9897334,-110.89735,-153.50213)"
-       inkscape:export-filename="/home/felipe/Documents/Projects/GitHub/study-materials/ui-design/images/sitemap.png"
-       inkscape:export-xdpi="95.995491"
-       inkscape:export-ydpi="95.995491"><flowRegion
-         id="flowRegion3034"><rect
-           id="rect3036"
-           width="98.906021"
-           height="18.466972"
-           x="300.90988"
-           y="260.76401" /></flowRegion><flowPara
-         id="flowPara3038"
-         style="font-size:8px;fill:#fffbff;fill-opacity:1">HOME PAGE</flowPara></flowRoot>    <g
-       id="g1134"
-       transform="matrix(3.7407247,0,0,3.7407247,12.229403,-822.32651)"
-       inkscape:export-filename="/home/felipe/Documents/Projects/GitHub/study-materials/ui-design/images/sitemap.png"
-       inkscape:export-xdpi="95.995491"
-       inkscape:export-ydpi="95.995491">
-      <rect
-         style="display:inline;opacity:1;fill:#f4bf67;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.03258302;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-         id="rect5176"
-         width="17.999868"
-         height="0.57599622"
-         x="44.050663"
-         y="253.19675" />
+       width="42.0331"
+       id="rect5866"
+       style="display:inline;opacity:1;fill:#358086;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       transform="rotate(-90)" />
+    <g
+       id="g5169"
+       transform="translate(-0.2043529,-31.381512)">
       <rect
          inkscape:export-ydpi="95.995491"
          inkscape:export-xdpi="95.995491"
-         style="display:inline;opacity:1;fill:#f2c984;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.01214051;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         id="rect4951-0"
-         width="4.0499659"
-         height="2.2499857"
-         x="46.843647"
-         y="254.98752" />
+         inkscape:export-filename="/home/felipe/Documents/Projects/GitHub/study-materials/ui-design/images/sitemap.png"
+         transform="rotate(-90)"
+         style="opacity:1;fill:#fff5ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+         id="rect2981"
+         width="42.033157"
+         height="67.333046"
+         x="-148.30887"
+         y="177.54306" />
       <rect
          inkscape:export-ydpi="95.995491"
          inkscape:export-xdpi="95.995491"
-         style="display:inline;opacity:1;fill:#583701;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.01700475;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         id="rect4953-6"
-         width="4.0499659"
-         height="0.89999229"
-         x="46.843647"
-         y="254.04285" />
-      <g
-         inkscape:export-filename="/home/felipe/Documents/Projects/GitHub/study-materials/images/html.png"
+         inkscape:export-filename="/home/felipe/Documents/Projects/GitHub/study-materials/ui-design/images/sitemap.png"
+         y="177.54306"
+         x="-120.43391"
+         height="67.333046"
+         width="14.158179"
+         id="rect3042"
+         style="opacity:1;fill:#00000e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+         transform="rotate(-90)" />
+      <flowRoot
          inkscape:export-ydpi="95.995491"
          inkscape:export-xdpi="95.995491"
-         transform="matrix(0.00898288,0,0,0.00901328,40.313733,292.25402)"
-         clip-path="url(#clipPath2923-6-2-4)"
-         id="g4987-9"
-         style="display:inline">
-        <g
-           id="g4985-0"
-           inkscape:label="Clip">
-          <path
-             d="M 870.7097,-4032.7436 H 733.44848 v -96.856 H 870.7097 Z"
-             style="display:inline;fill:#e54f26;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5361765"
-             id="path4963-9"
-             inkscape:connector-curvature="0" />
-          <g
-             style="display:inline"
-             id="g4967-1"
-             transform="matrix(0.53617652,0,0,-0.53617652,788.41628,-4106.6319)">
-            <path
-               d="M 0,0 H 4.047 V -3.998 H 7.749 V 0 h 4.047 V -12.107 H 7.749 v 4.054 H 4.047 v -4.054 H 0 Z"
-               style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               id="path4965-7"
-               inkscape:connector-curvature="0" />
-          </g>
-          <g
-             style="display:inline"
-             id="g4971-7"
-             transform="matrix(0.53617652,0,0,-0.53617652,797.59434,-4104.4791)">
-            <path
-               d="M 0,0 H -3.563 V 4.015 H 7.611 V 0 H 4.047 V -8.092 H 0 Z"
-               style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               id="path4969-1"
-               inkscape:connector-curvature="0" />
-          </g>
-          <g
-             style="display:inline"
-             id="g4975-1"
-             transform="matrix(0.53617652,0,0,-0.53617652,802.62627,-4106.6319)">
-            <path
-               d="M 0,0 H 4.22 L 6.815,-4.254 9.408,0 h 4.221 V -12.107 H 9.6 v 6.001 L 6.815,-10.411 H 6.746 l -2.787,4.305 v -6.001 H 0 Z"
-               style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               id="path4973-5"
-               inkscape:connector-curvature="0" />
-          </g>
-          <g
-             style="display:inline"
-             id="g4979-9"
-             transform="matrix(0.53617652,0,0,-0.53617652,811.01399,-4106.6319)">
-            <path
-               d="m 0,0 h 4.048 v -8.105 h 5.691 v -4.002 H 0 Z"
-               style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               id="path4977-7"
-               inkscape:connector-curvature="0" />
-          </g>
-          <g
-             style="display:inline"
-             id="g4983-7"
-             transform="matrix(0.53617652,0,0,-0.53617652,812.87489,-4088.9096)">
-            <path
-               d="m 0,0 -0.363,-4.037 -0.159,-1.79 h -0.026 -19.182 -0.028 -11.238 l 0.728,-8.154 h 10.51 0.028 16.337 2.146 l -0.194,-2.139 -1.872,-20.964 -0.12,-1.346 -16.297,-4.517 v -10e-4 l -0.037,-0.01 -16.312,4.528 -1.115,12.504 h 3.684 4.309 l 0.567,-6.351 8.869,-2.395 0.007,0.002 v 0.001 l 8.882,2.397 0.924,10.327 H -19.73 -19.758 -37.55 L -39.508,0 l -0.19,2.136 h 19.94 0.028 19.92 z m -51.535,15.409 5.789,-64.929 25.977,-7.211 26.048,7.221 5.796,64.919 z"
-               style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               id="path4981-6"
-               inkscape:connector-curvature="0" />
-          </g>
-        </g>
-      </g>
-      <g
-         inkscape:export-filename="/home/felipe/Documents/Projects/GitHub/study-materials/images/css.png"
+         inkscape:export-filename="/home/felipe/Documents/Projects/GitHub/study-materials/ui-design/images/sitemap.png"
+         transform="matrix(0.9897334,0,0,0.9897334,-110.36484,-155.86038)"
+         style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot3032"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3034"><rect
+             y="260.76401"
+             x="300.90988"
+             height="18.466972"
+             width="98.906021"
+             id="rect3036" /></flowRegion><flowPara
+           style="font-size:8px;fill:#fffbff;fill-opacity:1"
+           id="flowPara3038">HOME PAGE</flowPara></flowRoot>      <g
          inkscape:export-ydpi="95.995491"
          inkscape:export-xdpi="95.995491"
-         transform="matrix(0.00900127,0,0,0.00903181,40.294095,292.32929)"
-         clip-path="url(#clipPath2904-4-7-9)"
-         id="g5009-7"
-         style="display:inline">
+         inkscape:export-filename="/home/felipe/Documents/Projects/GitHub/study-materials/ui-design/images/sitemap.png"
+         transform="matrix(3.7407247,0,0,3.7407247,12.76191,-824.68476)"
+         id="g1134">
+        <rect
+           y="253.19675"
+           x="44.050663"
+           height="0.57599622"
+           width="17.999868"
+           id="rect5176"
+           style="display:inline;opacity:1;fill:#f4bf67;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.03258302;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+        <rect
+           y="254.98752"
+           x="46.843647"
+           height="2.2499857"
+           width="4.0499659"
+           id="rect4951-0"
+           style="display:inline;opacity:1;fill:#f2c984;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.01214051;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+           inkscape:export-xdpi="95.995491"
+           inkscape:export-ydpi="95.995491" />
+        <rect
+           y="254.04285"
+           x="46.843647"
+           height="0.89999229"
+           width="4.0499659"
+           id="rect4953-6"
+           style="display:inline;opacity:1;fill:#583701;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.01700475;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+           inkscape:export-xdpi="95.995491"
+           inkscape:export-ydpi="95.995491" />
         <g
-           id="g5007-3"
-           inkscape:label="Clip">
-          <path
-             d="M 1021.0805,-4032.7963 H 884.10107 v -96.6572 h 136.97943 z"
-             style="display:inline;fill:#0c73b8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5350762"
-             id="path4989-6"
-             inkscape:connector-curvature="0" />
+           style="display:inline"
+           id="g4987-9"
+           clip-path="url(#clipPath2923-6-2-4)"
+           transform="matrix(0.00898288,0,0,0.00901328,40.313733,292.25402)"
+           inkscape:export-xdpi="95.995491"
+           inkscape:export-ydpi="95.995491"
+           inkscape:export-filename="/home/felipe/Documents/Projects/GitHub/study-materials/images/html.png">
           <g
-             style="display:inline"
-             id="g4993-5"
-             transform="matrix(0.53507621,0,0,-0.53507621,946.74502,-4107.2165)">
-            <path
-               d="M 0,0 H 9.919 V -4.148 H 4.148 v -4.148 h 5.771 v -4.148 H 0 Z"
-               style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               id="path4991-6"
-               inkscape:connector-curvature="0" />
-          </g>
-          <g
-             style="display:inline"
-             id="g4997-3"
-             transform="matrix(0.53507621,0,0,-0.53507621,953.11413,-4107.2165)">
-            <path
-               d="M 0,0 H 9.919 V -3.607 H 4.148 v -0.721 h 5.771 v -8.297 H 0 v 3.788 h 5.771 v 0.721 H 0 Z"
-               style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               id="path4995-9"
-               inkscape:connector-curvature="0" />
-          </g>
-          <g
-             style="display:inline"
-             id="g5001-4"
-             transform="matrix(0.53507621,0,0,-0.53507621,959.48314,-4107.2165)">
-            <path
-               d="M 0,0 H 9.92 V -3.607 H 4.148 V -4.328 H 9.92 v -8.297 H 0 v 3.788 h 5.771 v 0.721 H 0 Z"
-               style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               id="path4999-8"
-               inkscape:connector-curvature="0" />
-          </g>
-          <g
-             style="display:inline"
-             id="g5005-1"
-             transform="matrix(0.53507621,0,0,-0.53507621,966.18048,-4081.3332)">
-            <path
-               d="m 0,0 -0.2,-2.199 -1.924,-21.561 -0.124,-1.384 -16.761,-4.646 v -0.001 l -0.038,-0.01 -16.776,4.657 -1.147,12.859 h 3.789 4.432 l 0.583,-6.531 9.121,-2.463 0.008,0.002 v 0 l 9.134,2.465 0.951,10.622 h -10.057 -0.028 -18.299 L -38.07,0 h 19.033 0.028 10.767 l 0.745,8.386 h -11.512 -0.028 -19.764 l -0.744,8.19 h 20.508 0.028 20.488 z m -51.719,30.226 5.954,-66.776 26.716,-7.416 26.79,7.426 5.96,66.766 z"
-               style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               id="path5003-2"
-               inkscape:connector-curvature="0" />
-          </g>
-        </g>
-      </g>
-      <g
-         inkscape:export-filename="/home/felipe/Documents/Projects/GitHub/study-materials/images/java-script.png"
-         inkscape:export-ydpi="95.995491"
-         inkscape:export-xdpi="95.995491"
-         transform="matrix(0.00900605,0,0,0.00903658,42.997049,291.39071)"
-         clip-path="url(#clipPath2887-4-6-9)"
-         id="g5027-9"
-         style="display:inline">
-        <g
-           id="g5025-3"
-           inkscape:label="Clip">
-          <path
-             inkscape:connector-curvature="0"
-             id="path5011-9"
-             style="display:inline;fill:#e7a020;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.53479373"
-             d="M 870.31266,-3926.8033 H 733.40548 v -96.6062 h 136.90718 z" />
-          <g
-             style="display:inline"
-             transform="matrix(0.5347937,0,0,-0.5347937,809.17092,-3966.086)"
-             id="g5015-0">
+             inkscape:label="Clip"
+             id="g4985-0">
             <path
                inkscape:connector-curvature="0"
-               id="path5013-8"
-               style="fill:#ebeaea;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               d="M 0,0 -16.654,-4.729 -33.308,0 -34.483,12.672 h 8.225 l 0.543,-6.341 9.061,-2.611 8.924,2.572 0.913,10.479 h -9.837 -18.14 l -0.048,-0.156 2.289,24.773 H -16.654 0.382 L 2.191,28.416 h -8.298 l -0.304,4.747 h -10.243 -9.217 l -0.378,-8.293 h 9.595 18.946 z m -16.654,54.895 h -32.541 l 6.098,-66.16 26.443,-7.496 26.433,7.496 6.108,66.16 z" />
-          </g>
-          <g
-             style="display:inline"
-             transform="matrix(0.5347937,0,0,-0.5347937,796.87744,-4000.6627)"
-             id="g5019-8">
-            <path
-               inkscape:connector-curvature="0"
-               id="path5017-5"
-               style="fill:#ebeaea;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               d="M 0,0 H -5.787 V -4.156 H 0 3.099 4.147 V 8.196 H 0 Z" />
-          </g>
-          <g
-             style="display:inline"
-             transform="matrix(0.5347937,0,0,-0.5347937,806.74664,-4005.0124)"
-             id="g5023-0">
-            <path
-               inkscape:connector-curvature="0"
-               id="path5021-9"
-               style="fill:#ebeaea;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               d="m 0,0 h -10.095 v -4.326 c 1.35,-1.35 2.055,-1.996 4.009,-3.95 -1.143,0 -4.009,-0.004 -4.009,-0.004 v -3.946 H 0 v 3.947 l -4.032,3.953 H 0 Z" />
+               id="path4963-9"
+               style="display:inline;fill:#e54f26;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5361765"
+               d="M 870.7097,-4032.7436 H 733.44848 v -96.856 H 870.7097 Z" />
+            <g
+               transform="matrix(0.53617652,0,0,-0.53617652,788.41628,-4106.6319)"
+               id="g4967-1"
+               style="display:inline">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path4965-7"
+                 style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 d="M 0,0 H 4.047 V -3.998 H 7.749 V 0 h 4.047 V -12.107 H 7.749 v 4.054 H 4.047 v -4.054 H 0 Z" />
+            </g>
+            <g
+               transform="matrix(0.53617652,0,0,-0.53617652,797.59434,-4104.4791)"
+               id="g4971-7"
+               style="display:inline">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path4969-1"
+                 style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 d="M 0,0 H -3.563 V 4.015 H 7.611 V 0 H 4.047 V -8.092 H 0 Z" />
+            </g>
+            <g
+               transform="matrix(0.53617652,0,0,-0.53617652,802.62627,-4106.6319)"
+               id="g4975-1"
+               style="display:inline">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path4973-5"
+                 style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 d="M 0,0 H 4.22 L 6.815,-4.254 9.408,0 h 4.221 V -12.107 H 9.6 v 6.001 L 6.815,-10.411 H 6.746 l -2.787,4.305 v -6.001 H 0 Z" />
+            </g>
+            <g
+               transform="matrix(0.53617652,0,0,-0.53617652,811.01399,-4106.6319)"
+               id="g4979-9"
+               style="display:inline">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path4977-7"
+                 style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 d="m 0,0 h 4.048 v -8.105 h 5.691 v -4.002 H 0 Z" />
+            </g>
+            <g
+               transform="matrix(0.53617652,0,0,-0.53617652,812.87489,-4088.9096)"
+               id="g4983-7"
+               style="display:inline">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path4981-6"
+                 style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 d="m 0,0 -0.363,-4.037 -0.159,-1.79 h -0.026 -19.182 -0.028 -11.238 l 0.728,-8.154 h 10.51 0.028 16.337 2.146 l -0.194,-2.139 -1.872,-20.964 -0.12,-1.346 -16.297,-4.517 v -10e-4 l -0.037,-0.01 -16.312,4.528 -1.115,12.504 h 3.684 4.309 l 0.567,-6.351 8.869,-2.395 0.007,0.002 v 0.001 l 8.882,2.397 0.924,10.327 H -19.73 -19.758 -37.55 L -39.508,0 l -0.19,2.136 h 19.94 0.028 19.92 z m -51.535,15.409 5.789,-64.929 25.977,-7.211 26.048,7.221 5.796,64.919 z" />
+            </g>
           </g>
         </g>
+        <g
+           style="display:inline"
+           id="g5009-7"
+           clip-path="url(#clipPath2904-4-7-9)"
+           transform="matrix(0.00900127,0,0,0.00903181,40.294095,292.32929)"
+           inkscape:export-xdpi="95.995491"
+           inkscape:export-ydpi="95.995491"
+           inkscape:export-filename="/home/felipe/Documents/Projects/GitHub/study-materials/images/css.png">
+          <g
+             inkscape:label="Clip"
+             id="g5007-3">
+            <path
+               inkscape:connector-curvature="0"
+               id="path4989-6"
+               style="display:inline;fill:#0c73b8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5350762"
+               d="M 1021.0805,-4032.7963 H 884.10107 v -96.6572 h 136.97943 z" />
+            <g
+               transform="matrix(0.53507621,0,0,-0.53507621,946.74502,-4107.2165)"
+               id="g4993-5"
+               style="display:inline">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path4991-6"
+                 style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 d="M 0,0 H 9.919 V -4.148 H 4.148 v -4.148 h 5.771 v -4.148 H 0 Z" />
+            </g>
+            <g
+               transform="matrix(0.53507621,0,0,-0.53507621,953.11413,-4107.2165)"
+               id="g4997-3"
+               style="display:inline">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path4995-9"
+                 style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 d="M 0,0 H 9.919 V -3.607 H 4.148 v -0.721 h 5.771 v -8.297 H 0 v 3.788 h 5.771 v 0.721 H 0 Z" />
+            </g>
+            <g
+               transform="matrix(0.53507621,0,0,-0.53507621,959.48314,-4107.2165)"
+               id="g5001-4"
+               style="display:inline">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path4999-8"
+                 style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 d="M 0,0 H 9.92 V -3.607 H 4.148 V -4.328 H 9.92 v -8.297 H 0 v 3.788 h 5.771 v 0.721 H 0 Z" />
+            </g>
+            <g
+               transform="matrix(0.53507621,0,0,-0.53507621,966.18048,-4081.3332)"
+               id="g5005-1"
+               style="display:inline">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path5003-2"
+                 style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 d="m 0,0 -0.2,-2.199 -1.924,-21.561 -0.124,-1.384 -16.761,-4.646 v -0.001 l -0.038,-0.01 -16.776,4.657 -1.147,12.859 h 3.789 4.432 l 0.583,-6.531 9.121,-2.463 0.008,0.002 v 0 l 9.134,2.465 0.951,10.622 h -10.057 -0.028 -18.299 L -38.07,0 h 19.033 0.028 10.767 l 0.745,8.386 h -11.512 -0.028 -19.764 l -0.744,8.19 h 20.508 0.028 20.488 z m -51.719,30.226 5.954,-66.776 26.716,-7.416 26.79,7.426 5.96,66.766 z" />
+            </g>
+          </g>
+        </g>
+        <g
+           style="display:inline"
+           id="g5027-9"
+           clip-path="url(#clipPath2887-4-6-9)"
+           transform="matrix(0.00900605,0,0,0.00903658,42.997049,291.39071)"
+           inkscape:export-xdpi="95.995491"
+           inkscape:export-ydpi="95.995491"
+           inkscape:export-filename="/home/felipe/Documents/Projects/GitHub/study-materials/images/java-script.png">
+          <g
+             inkscape:label="Clip"
+             id="g5025-3">
+            <path
+               d="M 870.31266,-3926.8033 H 733.40548 v -96.6062 h 136.90718 z"
+               style="display:inline;fill:#e7a020;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.53479373"
+               id="path5011-9"
+               inkscape:connector-curvature="0" />
+            <g
+               id="g5015-0"
+               transform="matrix(0.5347937,0,0,-0.5347937,809.17092,-3966.086)"
+               style="display:inline">
+              <path
+                 d="M 0,0 -16.654,-4.729 -33.308,0 -34.483,12.672 h 8.225 l 0.543,-6.341 9.061,-2.611 8.924,2.572 0.913,10.479 h -9.837 -18.14 l -0.048,-0.156 2.289,24.773 H -16.654 0.382 L 2.191,28.416 h -8.298 l -0.304,4.747 h -10.243 -9.217 l -0.378,-8.293 h 9.595 18.946 z m -16.654,54.895 h -32.541 l 6.098,-66.16 26.443,-7.496 26.433,7.496 6.108,66.16 z"
+                 style="fill:#ebeaea;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 id="path5013-8"
+                 inkscape:connector-curvature="0" />
+            </g>
+            <g
+               id="g5019-8"
+               transform="matrix(0.5347937,0,0,-0.5347937,796.87744,-4000.6627)"
+               style="display:inline">
+              <path
+                 d="M 0,0 H -5.787 V -4.156 H 0 3.099 4.147 V 8.196 H 0 Z"
+                 style="fill:#ebeaea;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 id="path5017-5"
+                 inkscape:connector-curvature="0" />
+            </g>
+            <g
+               id="g5023-0"
+               transform="matrix(0.5347937,0,0,-0.5347937,806.74664,-4005.0124)"
+               style="display:inline">
+              <path
+                 d="m 0,0 h -10.095 v -4.326 c 1.35,-1.35 2.055,-1.996 4.009,-3.95 -1.143,0 -4.009,-0.004 -4.009,-0.004 v -3.946 H 0 v 3.947 l -4.032,3.953 H 0 Z"
+                 style="fill:#ebeaea;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 id="path5021-9"
+                 inkscape:connector-curvature="0" />
+            </g>
+          </g>
+        </g>
+        <rect
+           inkscape:export-ydpi="95.995491"
+           inkscape:export-xdpi="95.995491"
+           style="display:inline;opacity:1;fill:#f2c984;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.01214051;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+           id="rect6134"
+           width="4.0499659"
+           height="2.2499857"
+           x="51.043018"
+           y="254.98752" />
+        <rect
+           inkscape:export-ydpi="95.995491"
+           inkscape:export-xdpi="95.995491"
+           style="display:inline;opacity:1;fill:#583701;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.01700475;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+           id="rect6136"
+           width="4.0499659"
+           height="0.89999229"
+           x="51.043018"
+           y="254.04285" />
+        <rect
+           y="254.98752"
+           x="55.242359"
+           height="2.2499857"
+           width="4.0499659"
+           id="rect6138"
+           style="display:inline;opacity:1;fill:#f2c984;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.01214051;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+           inkscape:export-xdpi="95.995491"
+           inkscape:export-ydpi="95.995491" />
+        <rect
+           y="254.04285"
+           x="55.242359"
+           height="0.89999229"
+           width="4.0499659"
+           id="rect6140"
+           style="display:inline;opacity:1;fill:#583701;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.01700475;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+           inkscape:export-xdpi="95.995491"
+           inkscape:export-ydpi="95.995491" />
       </g>
-      <rect
-         y="254.98752"
-         x="51.043018"
-         height="2.2499857"
-         width="4.0499659"
-         id="rect6134"
-         style="display:inline;opacity:1;fill:#f2c984;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.01214051;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         inkscape:export-xdpi="95.995491"
-         inkscape:export-ydpi="95.995491" />
-      <rect
-         y="254.04285"
-         x="51.043018"
-         height="0.89999229"
-         width="4.0499659"
-         id="rect6136"
-         style="display:inline;opacity:1;fill:#583701;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.01700475;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         inkscape:export-xdpi="95.995491"
-         inkscape:export-ydpi="95.995491" />
-      <rect
-         inkscape:export-ydpi="95.995491"
-         inkscape:export-xdpi="95.995491"
-         style="display:inline;opacity:1;fill:#f2c984;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.01214051;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         id="rect6138"
-         width="4.0499659"
-         height="2.2499857"
-         x="55.242359"
-         y="254.98752" />
-      <rect
-         inkscape:export-ydpi="95.995491"
-         inkscape:export-xdpi="95.995491"
-         style="display:inline;opacity:1;fill:#583701;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.01700475;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         id="rect6140"
-         width="4.0499659"
-         height="0.89999229"
-         x="55.242359"
-         y="254.04285" />
     </g>
     <rect
        transform="rotate(-90)"
@@ -715,14 +742,14 @@
        id="rect4011"
        width="42.0331"
        height="67.333046"
-       x="-218.80313"
-       y="177.01056"
+       x="-185.06364"
+       y="177.3387"
        inkscape:export-filename="/home/felipe/Documents/Projects/GitHub/study-materials/ui-design/images/sitemap.png"
        inkscape:export-xdpi="95.995491"
        inkscape:export-ydpi="95.995491" />
     <rect
-       y="177.01056"
-       x="-190.92819"
+       y="177.3387"
+       x="-157.18871"
        height="67.333046"
        width="14.158166"
        id="rect4013"
@@ -732,7 +759,7 @@
        inkscape:export-xdpi="95.995491"
        inkscape:export-ydpi="95.995491" />
     <flowRoot
-       transform="matrix(0.9897334,0,0,0.98973347,-98.531477,-85.362257)"
+       transform="matrix(0.9897334,0,0,0.98973347,-98.203324,-119.10174)"
        style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot4021"
        xml:space="preserve"
@@ -748,7 +775,7 @@
          style="font-size:8px;fill:#fffbff;fill-opacity:1"
          id="flowPara4019">HMTL</flowPara></flowRoot>    <g
        id="g1092"
-       transform="matrix(3.7407247,0,0,3.7407247,11.968553,-819.39868)"
+       transform="matrix(3.7407247,0,0,3.7407247,12.296706,-853.13817)"
        inkscape:export-filename="/home/felipe/Documents/Projects/GitHub/study-materials/ui-design/images/sitemap.png"
        inkscape:export-xdpi="95.995491"
        inkscape:export-ydpi="95.995491">
@@ -882,5 +909,691 @@
          id="rect4265"
          style="opacity:1;fill:#eb5a25;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
     </g>
+    <g
+       id="g6642"
+       transform="translate(0.66133449,-34.396249)">
+      <rect
+         transform="rotate(-90)"
+         style="opacity:1;fill:#fff5ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+         id="rect5868"
+         width="42.0331"
+         height="67.333046"
+         x="-287.59592"
+         y="176.67737"
+         inkscape:export-filename="/home/felipe/Documents/Projects/GitHub/study-materials/ui-design/images/sitemap.png"
+         inkscape:export-xdpi="95.995491"
+         inkscape:export-ydpi="95.995491" />
+      <rect
+         y="176.67737"
+         x="-259.72098"
+         height="67.333046"
+         width="14.158166"
+         id="rect5870"
+         style="opacity:1;fill:#00000e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+         transform="rotate(-90)"
+         inkscape:export-filename="/home/felipe/Documents/Projects/GitHub/study-materials/ui-design/images/sitemap.png"
+         inkscape:export-xdpi="95.995491"
+         inkscape:export-ydpi="95.995491" />
+      <flowRoot
+         transform="matrix(0.9897334,0,0,0.98973347,-97.575314,-16.573341)"
+         style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot5878"
+         xml:space="preserve"
+         inkscape:export-filename="/home/felipe/Documents/Projects/GitHub/study-materials/ui-design/images/sitemap.png"
+         inkscape:export-xdpi="95.995491"
+         inkscape:export-ydpi="95.995491"><flowRegion
+           id="flowRegion5874"><rect
+             y="260.76401"
+             x="300.90988"
+             height="18.466972"
+             width="98.906021"
+             id="rect5872" /></flowRegion><flowPara
+           style="font-size:8px;fill:#fffbff;fill-opacity:1"
+           id="flowPara5876">TAGS</flowPara></flowRoot>      <rect
+         style="display:inline;opacity:1;fill:#000071;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.02958625;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+         id="rect5880"
+         width="48.923508"
+         height="0.17472662"
+         x="185.88214"
+         y="264.29459" />
+      <rect
+         y="285.78583"
+         x="185.88214"
+         height="0.18637505"
+         width="48.923508"
+         id="rect5882"
+         style="display:inline;opacity:1;fill:#000071;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.03055604;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <rect
+         style="opacity:1;fill:#000071;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+         id="rect5908"
+         width="7.4531436"
+         height="2.854393"
+         x="185.88214"
+         y="261.09085" />
+      <rect
+         style="opacity:1;fill:#00b3ef;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+         id="rect6381"
+         width="0.42859972"
+         height="1.5140138"
+         x="32.263737"
+         y="345.40762"
+         ry="0"
+         transform="matrix(-0.70710678,0.70710678,0.70710678,0.70710678,0,0)"
+         inkscape:export-filename="/home/felipe/Documents/Projects/GitHub/study-materials/ui-design/images/page-html-tags.png"
+         inkscape:export-xdpi="95.995491"
+         inkscape:export-ydpi="95.995491" />
+      <rect
+         transform="rotate(-135)"
+         ry="0"
+         y="-33.777767"
+         x="-346.92303"
+         height="1.514014"
+         width="0.42859975"
+         id="rect6383"
+         style="opacity:1;fill:#00b3ef;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+         inkscape:export-filename="/home/felipe/Documents/Projects/GitHub/study-materials/ui-design/images/page-html-tags.png"
+         inkscape:export-xdpi="95.995491"
+         inkscape:export-ydpi="95.995491" />
+      <rect
+         style="opacity:1;fill:#00b3ef;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+         id="rect6385"
+         width="30.249653"
+         height="0.023716208"
+         x="190.83737"
+         y="269.17078"
+         inkscape:export-filename="/home/felipe/Documents/Projects/GitHub/study-materials/ui-design/images/page-html-tags.png"
+         inkscape:export-xdpi="95.995491"
+         inkscape:export-ydpi="95.995491" />
+      <rect
+         style="opacity:1;fill:#00b3ef;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+         id="rect6387"
+         width="0.42859975"
+         height="1.514014"
+         x="321.27826"
+         y="56.39257"
+         ry="0"
+         transform="rotate(45)"
+         inkscape:export-filename="/home/felipe/Documents/Projects/GitHub/study-materials/ui-design/images/page-html-tags.png"
+         inkscape:export-xdpi="95.995491"
+         inkscape:export-ydpi="95.995491" />
+      <rect
+         transform="matrix(0.70710678,-0.70710678,-0.70710678,-0.70710678,0,0)"
+         ry="0"
+         y="-322.79373"
+         x="-57.90654"
+         height="1.5140138"
+         width="0.42859972"
+         id="rect6389"
+         style="opacity:1;fill:#00b3ef;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+         inkscape:export-filename="/home/felipe/Documents/Projects/GitHub/study-materials/ui-design/images/page-html-tags.png"
+         inkscape:export-xdpi="95.995491"
+         inkscape:export-ydpi="95.995491" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot6397"
+         style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#00b3ef;fill-opacity:1;stroke:none"
+         transform="matrix(0.0118576,0,0,0.0118576,116.15687,235.61619)"
+         inkscape:export-filename="/home/felipe/Documents/Projects/GitHub/study-materials/ui-design/images/page-html-tags.png"
+         inkscape:export-xdpi="95.995491"
+         inkscape:export-ydpi="95.995491"><flowRegion
+           style="fill:#00b3ef;fill-opacity:1"
+           id="flowRegion6393"><rect
+             style="fill:#00b3ef;fill-opacity:1"
+             id="rect6391"
+             width="2564.7292"
+             height="175.7746"
+             x="6328"
+             y="2696" /></flowRegion><flowPara
+           id="flowPara6395"
+           style="font-size:74.66666412px;fill:#00b3ef;fill-opacity:1">The &lt;div&gt; tag defines a division or a section in an HTML document</flowPara></flowRoot>      <rect
+         y="267.05432"
+         x="190.83737"
+         height="0.023716208"
+         width="30.249653"
+         id="rect6399"
+         style="opacity:1;fill:#00b3ef;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+         inkscape:export-filename="/home/felipe/Documents/Projects/GitHub/study-materials/ui-design/images/page-html-tags.png"
+         inkscape:export-xdpi="95.995491"
+         inkscape:export-ydpi="95.995491" />
+      <flowRoot
+         transform="matrix(0.0118576,0,0,0.0118576,120.65215,234.60216)"
+         style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#00b3ef;fill-opacity:1;stroke:none"
+         id="flowRoot6407"
+         xml:space="preserve"
+         inkscape:export-filename="/home/felipe/Documents/Projects/GitHub/study-materials/ui-design/images/page-html-tags.png"
+         inkscape:export-xdpi="95.995491"
+         inkscape:export-ydpi="95.995491"><flowRegion
+           style="fill:#00b3ef;fill-opacity:1"
+           id="flowRegion6403"><rect
+             style="fill:#00b3ef;fill-opacity:1"
+             y="2728.6577"
+             x="5635.6411"
+             height="260.35147"
+             width="325.37027"
+             id="rect6401" /></flowRegion><flowPara
+           style="font-size:192px;fill:#00b3ef;fill-opacity:1"
+           id="flowPara6405">div</flowPara></flowRoot>      <rect
+         transform="rotate(45)"
+         ry="0"
+         y="54.75227"
+         x="319.63831"
+         height="1.5140179"
+         width="0.42860097"
+         id="rect6409"
+         style="opacity:1;fill:#000071;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+         inkscape:export-filename="/home/felipe/Documents/Projects/GitHub/study-materials/ui-design/images/page-html-tags.png"
+         inkscape:export-xdpi="95.995491"
+         inkscape:export-ydpi="95.995491" />
+      <rect
+         style="opacity:1;fill:#000071;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+         id="rect6411"
+         width="0.42860085"
+         height="1.5140178"
+         x="-56.266266"
+         y="-321.15372"
+         ry="0"
+         transform="matrix(0.70710678,-0.70710678,-0.70710678,-0.70710678,0,0)"
+         inkscape:export-filename="/home/felipe/Documents/Projects/GitHub/study-materials/ui-design/images/page-html-tags.png"
+         inkscape:export-xdpi="95.995491"
+         inkscape:export-ydpi="95.995491" />
+      <rect
+         transform="matrix(-0.70710678,0.70710678,0.70710678,0.70710678,0,0)"
+         ry="0"
+         y="322.35104"
+         x="52.039253"
+         height="1.5140178"
+         width="0.42860085"
+         id="rect6413"
+         style="opacity:1;fill:#000071;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+         inkscape:export-filename="/home/felipe/Documents/Projects/GitHub/study-materials/ui-design/images/page-html-tags.png"
+         inkscape:export-xdpi="95.995491"
+         inkscape:export-ydpi="95.995491" />
+      <rect
+         style="opacity:1;fill:#000071;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+         id="rect6415"
+         width="0.42860097"
+         height="1.5140179"
+         x="-323.86655"
+         y="-53.553261"
+         ry="0"
+         transform="rotate(-135)"
+         inkscape:export-filename="/home/felipe/Documents/Projects/GitHub/study-materials/ui-design/images/page-html-tags.png"
+         inkscape:export-xdpi="95.995491"
+         inkscape:export-ydpi="95.995491" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot6423"
+         style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000071;fill-opacity:1;stroke:none"
+         transform="matrix(0.01185763,0,0,0.01185763,120.65201,232.2823)"
+         inkscape:export-filename="/home/felipe/Documents/Projects/GitHub/study-materials/ui-design/images/page-html-tags.png"
+         inkscape:export-xdpi="95.995491"
+         inkscape:export-ydpi="95.995491"><flowRegion
+           id="flowRegion6419"
+           style="fill:#000071;fill-opacity:1"><rect
+             id="rect6417"
+             width="325.37027"
+             height="260.35147"
+             x="5635.6411"
+             y="2728.6577"
+             style="fill:#000071;fill-opacity:1" /></flowRegion><flowPara
+           id="flowPara6421"
+           style="font-size:192px;fill:#000071;fill-opacity:1">div</flowPara></flowRoot>      <rect
+         style="opacity:1;fill:#000071;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+         id="rect6425"
+         width="0.42860097"
+         height="1.5140179"
+         x="322.9184"
+         y="58.032745"
+         ry="0"
+         transform="rotate(45)"
+         inkscape:export-filename="/home/felipe/Documents/Projects/GitHub/study-materials/ui-design/images/page-html-tags.png"
+         inkscape:export-xdpi="95.995491"
+         inkscape:export-ydpi="95.995491" />
+      <rect
+         transform="matrix(0.70710678,-0.70710678,-0.70710678,-0.70710678,0,0)"
+         ry="0"
+         y="-324.43384"
+         x="-59.546799"
+         height="1.5140178"
+         width="0.42860085"
+         id="rect6427"
+         style="opacity:1;fill:#000071;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+         inkscape:export-filename="/home/felipe/Documents/Projects/GitHub/study-materials/ui-design/images/page-html-tags.png"
+         inkscape:export-xdpi="95.995491"
+         inkscape:export-ydpi="95.995491" />
+      <rect
+         style="opacity:1;fill:#000071;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+         id="rect6429"
+         width="0.42860085"
+         height="1.5140178"
+         x="55.319782"
+         y="325.63126"
+         ry="0"
+         transform="matrix(-0.70710678,0.70710678,0.70710678,0.70710678,0,0)"
+         inkscape:export-filename="/home/felipe/Documents/Projects/GitHub/study-materials/ui-design/images/page-html-tags.png"
+         inkscape:export-xdpi="95.995491"
+         inkscape:export-ydpi="95.995491" />
+      <rect
+         transform="rotate(-135)"
+         ry="0"
+         y="-56.83382"
+         x="-327.14682"
+         height="1.5140179"
+         width="0.42860097"
+         id="rect6431"
+         style="opacity:1;fill:#000071;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+         inkscape:export-filename="/home/felipe/Documents/Projects/GitHub/study-materials/ui-design/images/page-html-tags.png"
+         inkscape:export-xdpi="95.995491"
+         inkscape:export-ydpi="95.995491" />
+      <flowRoot
+         transform="matrix(0.01185763,0,0,0.01185763,121.30745,236.21421)"
+         style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000071;fill-opacity:1;stroke:none"
+         id="flowRoot6439"
+         xml:space="preserve"
+         inkscape:export-filename="/home/felipe/Documents/Projects/GitHub/study-materials/ui-design/images/page-html-tags.png"
+         inkscape:export-xdpi="95.995491"
+         inkscape:export-ydpi="95.995491"><flowRegion
+           style="fill:#000071;fill-opacity:1"
+           id="flowRegion6435"><rect
+             style="fill:#000071;fill-opacity:1"
+             y="2728.6577"
+             x="5635.6411"
+             height="260.35147"
+             width="325.37027"
+             id="rect6433" /></flowRegion><flowPara
+           style="font-size:192px;fill:#000071;fill-opacity:1"
+           id="flowPara6437">...</flowPara></flowRoot>      <g
+         id="g6445"
+         transform="matrix(0.13487548,0,0,0.13487548,171.88539,255.00999)"
+         inkscape:export-filename="/home/felipe/Documents/Projects/GitHub/study-materials/ui-design/images/page-html-tags.png"
+         inkscape:export-xdpi="95.995491"
+         inkscape:export-ydpi="95.995491"
+         style="opacity:1">
+        <rect
+           style="opacity:1;fill:#000071;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+           id="rect6441"
+           width="3.1777508"
+           height="11.225303"
+           x="168.29495"
+           y="6.6376495"
+           ry="0"
+           transform="rotate(45)" />
+        <rect
+           transform="matrix(0.70710678,-0.70710678,-0.70710678,-0.70710678,0,0)"
+           ry="0"
+           y="-179.52026"
+           x="-17.862967"
+           height="11.225303"
+           width="3.1777508"
+           id="rect6443"
+           style="opacity:1;fill:#000071;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+      </g>
+      <rect
+         transform="matrix(-0.70710678,0.70710678,0.70710678,0.70710678,0,0)"
+         ry="0"
+         y="327.27145"
+         x="56.959946"
+         height="1.5140178"
+         width="0.42860085"
+         id="rect6447"
+         style="opacity:1;fill:#000071;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+         inkscape:export-filename="/home/felipe/Documents/Projects/GitHub/study-materials/ui-design/images/page-html-tags.png"
+         inkscape:export-xdpi="95.995491"
+         inkscape:export-ydpi="95.995491" />
+      <rect
+         style="opacity:1;fill:#000071;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+         id="rect6449"
+         width="0.42860097"
+         height="1.5140179"
+         x="-328.78665"
+         y="-58.473946"
+         ry="0"
+         transform="rotate(-135)"
+         inkscape:export-filename="/home/felipe/Documents/Projects/GitHub/study-materials/ui-design/images/page-html-tags.png"
+         inkscape:export-xdpi="95.995491"
+         inkscape:export-ydpi="95.995491" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot6457"
+         style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000071;fill-opacity:1;stroke:none"
+         transform="matrix(0.01185763,0,0,0.01185763,121.30745,238.53379)"
+         inkscape:export-filename="/home/felipe/Documents/Projects/GitHub/study-materials/ui-design/images/page-html-tags.png"
+         inkscape:export-xdpi="95.995491"
+         inkscape:export-ydpi="95.995491"><flowRegion
+           id="flowRegion6453"
+           style="fill:#000071;fill-opacity:1"><rect
+             id="rect6451"
+             width="325.37027"
+             height="260.35147"
+             x="5635.6411"
+             y="2728.6577"
+             style="fill:#000071;fill-opacity:1" /></flowRegion><flowPara
+           id="flowPara6455"
+           style="font-size:192px;fill:#000071;fill-opacity:1">...</flowPara></flowRoot>      <rect
+         style="opacity:1;fill:#000071;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+         id="rect6459"
+         width="0.42860097"
+         height="1.5140179"
+         x="326.19867"
+         y="61.313107"
+         ry="0"
+         transform="rotate(45)"
+         inkscape:export-filename="/home/felipe/Documents/Projects/GitHub/study-materials/ui-design/images/page-html-tags.png"
+         inkscape:export-xdpi="95.995491"
+         inkscape:export-ydpi="95.995491" />
+      <rect
+         transform="matrix(0.70710678,-0.70710678,-0.70710678,-0.70710678,0,0)"
+         ry="0"
+         y="-327.71368"
+         x="-62.82711"
+         height="1.5140178"
+         width="0.42860085"
+         id="rect6461"
+         style="opacity:1;fill:#000071;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+         inkscape:export-filename="/home/felipe/Documents/Projects/GitHub/study-materials/ui-design/images/page-html-tags.png"
+         inkscape:export-xdpi="95.995491"
+         inkscape:export-ydpi="95.995491" />
+      <rect
+         style="opacity:1;fill:#000071;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+         id="rect6463"
+         width="0.42860085"
+         height="1.5140178"
+         x="58.600174"
+         y="328.91141"
+         ry="0"
+         transform="matrix(-0.70710678,0.70710678,0.70710678,0.70710678,0,0)"
+         inkscape:export-filename="/home/felipe/Documents/Projects/GitHub/study-materials/ui-design/images/page-html-tags.png"
+         inkscape:export-xdpi="95.995491"
+         inkscape:export-ydpi="95.995491" />
+      <rect
+         transform="rotate(-135)"
+         ry="0"
+         y="-60.114258"
+         x="-330.42645"
+         height="1.5140179"
+         width="0.42860097"
+         id="rect6465"
+         style="opacity:1;fill:#000071;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+         inkscape:export-filename="/home/felipe/Documents/Projects/GitHub/study-materials/ui-design/images/page-html-tags.png"
+         inkscape:export-xdpi="95.995491"
+         inkscape:export-ydpi="95.995491" />
+      <flowRoot
+         transform="matrix(0.01185763,0,0,0.01185763,121.30745,240.85343)"
+         style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000071;fill-opacity:1;stroke:none"
+         id="flowRoot6473"
+         xml:space="preserve"
+         inkscape:export-filename="/home/felipe/Documents/Projects/GitHub/study-materials/ui-design/images/page-html-tags.png"
+         inkscape:export-xdpi="95.995491"
+         inkscape:export-ydpi="95.995491"><flowRegion
+           style="fill:#000071;fill-opacity:1"
+           id="flowRegion6469"><rect
+             style="fill:#000071;fill-opacity:1"
+             y="2728.6577"
+             x="5635.6411"
+             height="260.35147"
+             width="325.37027"
+             id="rect6467" /></flowRegion><flowPara
+           style="font-size:192px;fill:#000071;fill-opacity:1"
+           id="flowPara6471">...</flowPara></flowRoot>      <rect
+         transform="rotate(45)"
+         ry="0"
+         y="62.953373"
+         x="327.83847"
+         height="1.5140179"
+         width="0.42860097"
+         id="rect6475"
+         style="opacity:1;fill:#000071;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+         inkscape:export-filename="/home/felipe/Documents/Projects/GitHub/study-materials/ui-design/images/page-html-tags.png"
+         inkscape:export-xdpi="95.995491"
+         inkscape:export-ydpi="95.995491" />
+      <rect
+         style="opacity:1;fill:#000071;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+         id="rect6477"
+         width="0.42860085"
+         height="1.5140178"
+         x="-64.467438"
+         y="-329.35349"
+         ry="0"
+         transform="matrix(0.70710678,-0.70710678,-0.70710678,-0.70710678,0,0)"
+         inkscape:export-filename="/home/felipe/Documents/Projects/GitHub/study-materials/ui-design/images/page-html-tags.png"
+         inkscape:export-xdpi="95.995491"
+         inkscape:export-ydpi="95.995491" />
+      <rect
+         transform="matrix(-0.70710678,0.70710678,0.70710678,0.70710678,0,0)"
+         ry="0"
+         y="333.41263"
+         x="57.381157"
+         height="1.5140178"
+         width="0.42860085"
+         id="rect6479"
+         style="opacity:1;fill:#000071;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+         inkscape:export-filename="/home/felipe/Documents/Projects/GitHub/study-materials/ui-design/images/page-html-tags.png"
+         inkscape:export-xdpi="95.995491"
+         inkscape:export-ydpi="95.995491" />
+      <rect
+         style="opacity:1;fill:#000071;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+         id="rect6481"
+         width="0.42860097"
+         height="1.5140179"
+         x="-334.92505"
+         y="-58.895184"
+         ry="0"
+         transform="rotate(-135)"
+         inkscape:export-filename="/home/felipe/Documents/Projects/GitHub/study-materials/ui-design/images/page-html-tags.png"
+         inkscape:export-xdpi="95.995491"
+         inkscape:export-ydpi="95.995491" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot6489"
+         style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000071;fill-opacity:1;stroke:none"
+         transform="matrix(0.01185763,0,0,0.01185763,120.71676,243.88034)"
+         inkscape:export-filename="/home/felipe/Documents/Projects/GitHub/study-materials/ui-design/images/page-html-tags.png"
+         inkscape:export-xdpi="95.995491"
+         inkscape:export-ydpi="95.995491"><flowRegion
+           id="flowRegion6485"
+           style="fill:#000071;fill-opacity:1"><rect
+             id="rect6483"
+             width="670.10004"
+             height="222.04823"
+             x="5635.6411"
+             y="2728.6577"
+             style="fill:#000071;fill-opacity:1" /></flowRegion><flowPara
+           id="flowPara6487"
+           style="font-size:192px;fill:#000071;fill-opacity:1">thread</flowPara></flowRoot>      <rect
+         style="opacity:1;fill:#000071;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+         id="rect6491"
+         width="0.42860097"
+         height="1.5140179"
+         x="329.47964"
+         y="64.593643"
+         ry="0"
+         transform="rotate(45)"
+         inkscape:export-filename="/home/felipe/Documents/Projects/GitHub/study-materials/ui-design/images/page-html-tags.png"
+         inkscape:export-xdpi="95.995491"
+         inkscape:export-ydpi="95.995491" />
+      <rect
+         transform="matrix(0.70710678,-0.70710678,-0.70710678,-0.70710678,0,0)"
+         ry="0"
+         y="-330.99329"
+         x="-66.107399"
+         height="1.5140178"
+         width="0.42860085"
+         id="rect6493"
+         style="opacity:1;fill:#000071;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+         inkscape:export-filename="/home/felipe/Documents/Projects/GitHub/study-materials/ui-design/images/page-html-tags.png"
+         inkscape:export-xdpi="95.995491"
+         inkscape:export-ydpi="95.995491" />
+      <rect
+         style="opacity:1;fill:#000071;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+         id="rect6495"
+         width="0.42860085"
+         height="1.5140178"
+         x="57.531769"
+         y="336.54257"
+         ry="0"
+         transform="matrix(-0.70710678,0.70710678,0.70710678,0.70710678,0,0)"
+         inkscape:export-filename="/home/felipe/Documents/Projects/GitHub/study-materials/ui-design/images/page-html-tags.png"
+         inkscape:export-xdpi="95.995491"
+         inkscape:export-ydpi="95.995491" />
+      <rect
+         transform="rotate(-135)"
+         ry="0"
+         y="-59.045784"
+         x="-338.05499"
+         height="1.5140179"
+         width="0.42860097"
+         id="rect6497"
+         style="opacity:1;fill:#000071;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+         inkscape:export-filename="/home/felipe/Documents/Projects/GitHub/study-materials/ui-design/images/page-html-tags.png"
+         inkscape:export-xdpi="95.995491"
+         inkscape:export-ydpi="95.995491" />
+      <flowRoot
+         transform="matrix(0.01185763,0,0,0.01185763,120.71676,246.13478)"
+         style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000071;fill-opacity:1;stroke:none"
+         id="flowRoot6505"
+         xml:space="preserve"
+         inkscape:export-filename="/home/felipe/Documents/Projects/GitHub/study-materials/ui-design/images/page-html-tags.png"
+         inkscape:export-xdpi="95.995491"
+         inkscape:export-ydpi="95.995491"><flowRegion
+           style="fill:#000071;fill-opacity:1"
+           id="flowRegion6501"><rect
+             style="fill:#000071;fill-opacity:1"
+             y="2728.6577"
+             x="5635.6411"
+             height="241.19991"
+             width="833.95312"
+             id="rect6499" /></flowRegion><flowPara
+           style="font-size:192px;fill:#000071;fill-opacity:1"
+           id="flowPara6503">textarea</flowPara></flowRoot>      <rect
+         transform="rotate(45)"
+         ry="0"
+         y="66.233681"
+         x="331.12158"
+         height="1.5140179"
+         width="0.42860097"
+         id="rect6507"
+         style="opacity:1;fill:#000071;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+         inkscape:export-filename="/home/felipe/Documents/Projects/GitHub/study-materials/ui-design/images/page-html-tags.png"
+         inkscape:export-xdpi="95.995491"
+         inkscape:export-ydpi="95.995491" />
+      <rect
+         style="opacity:1;fill:#000071;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+         id="rect6509"
+         width="0.42860085"
+         height="1.5140178"
+         x="-67.747673"
+         y="-332.63327"
+         ry="0"
+         transform="matrix(0.70710678,-0.70710678,-0.70710678,-0.70710678,0,0)"
+         inkscape:export-filename="/home/felipe/Documents/Projects/GitHub/study-materials/ui-design/images/page-html-tags.png"
+         inkscape:export-xdpi="95.995491"
+         inkscape:export-ydpi="95.995491" />
+      <rect
+         transform="matrix(-0.70710678,0.70710678,0.70710678,0.70710678,0,0)"
+         ry="0"
+         y="333.83438"
+         x="63.520798"
+         height="1.5140178"
+         width="0.42860085"
+         id="rect6511"
+         style="opacity:1;fill:#000071;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+         inkscape:export-filename="/home/felipe/Documents/Projects/GitHub/study-materials/ui-design/images/page-html-tags.png"
+         inkscape:export-xdpi="95.995491"
+         inkscape:export-ydpi="95.995491" />
+      <rect
+         style="opacity:1;fill:#000071;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+         id="rect6513"
+         width="0.42860097"
+         height="1.5140179"
+         x="-335.34628"
+         y="-65.034546"
+         ry="0"
+         transform="rotate(-135)"
+         inkscape:export-filename="/home/felipe/Documents/Projects/GitHub/study-materials/ui-design/images/page-html-tags.png"
+         inkscape:export-xdpi="95.995491"
+         inkscape:export-ydpi="95.995491" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot6521"
+         style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000071;fill-opacity:1;stroke:none"
+         transform="matrix(0.01185763,0,0,0.01185763,121.30745,247.81222)"
+         inkscape:export-filename="/home/felipe/Documents/Projects/GitHub/study-materials/ui-design/images/page-html-tags.png"
+         inkscape:export-xdpi="95.995491"
+         inkscape:export-ydpi="95.995491"><flowRegion
+           id="flowRegion6517"
+           style="fill:#000071;fill-opacity:1"><rect
+             id="rect6515"
+             width="325.37027"
+             height="260.35147"
+             x="5635.6411"
+             y="2728.6577"
+             style="fill:#000071;fill-opacity:1" /></flowRegion><flowPara
+           id="flowPara6519"
+           style="font-size:192px;fill:#000071;fill-opacity:1">...</flowPara></flowRoot>      <rect
+         style="opacity:1;fill:#000071;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+         id="rect6523"
+         width="0.42860097"
+         height="1.5140179"
+         x="332.76144"
+         y="67.873604"
+         ry="0"
+         transform="rotate(45)"
+         inkscape:export-filename="/home/felipe/Documents/Projects/GitHub/study-materials/ui-design/images/page-html-tags.png"
+         inkscape:export-xdpi="95.995491"
+         inkscape:export-ydpi="95.995491" />
+      <rect
+         transform="matrix(0.70710678,-0.70710678,-0.70710678,-0.70710678,0,0)"
+         ry="0"
+         y="-334.27332"
+         x="-69.388084"
+         height="1.5140178"
+         width="0.42860085"
+         id="rect6525"
+         style="opacity:1;fill:#000071;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+         inkscape:export-filename="/home/felipe/Documents/Projects/GitHub/study-materials/ui-design/images/page-html-tags.png"
+         inkscape:export-xdpi="95.995491"
+         inkscape:export-ydpi="95.995491" />
+      <rect
+         style="opacity:1;fill:#000071;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+         id="rect6527"
+         width="0.42860085"
+         height="1.5140178"
+         x="65.160782"
+         y="335.47421"
+         ry="0"
+         transform="matrix(-0.70710678,0.70710678,0.70710678,0.70710678,0,0)"
+         inkscape:export-filename="/home/felipe/Documents/Projects/GitHub/study-materials/ui-design/images/page-html-tags.png"
+         inkscape:export-xdpi="95.995491"
+         inkscape:export-ydpi="95.995491" />
+      <rect
+         transform="rotate(-135)"
+         ry="0"
+         y="-66.675232"
+         x="-336.98642"
+         height="1.5140179"
+         width="0.42860097"
+         id="rect6529"
+         style="opacity:1;fill:#000071;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+         inkscape:export-filename="/home/felipe/Documents/Projects/GitHub/study-materials/ui-design/images/page-html-tags.png"
+         inkscape:export-xdpi="95.995491"
+         inkscape:export-ydpi="95.995491" />
+      <flowRoot
+         transform="matrix(0.01185763,0,0,0.01185763,121.30745,250.13181)"
+         style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000071;fill-opacity:1;stroke:none"
+         id="flowRoot6537"
+         xml:space="preserve"
+         inkscape:export-filename="/home/felipe/Documents/Projects/GitHub/study-materials/ui-design/images/page-html-tags.png"
+         inkscape:export-xdpi="95.995491"
+         inkscape:export-ydpi="95.995491"><flowRegion
+           style="fill:#000071;fill-opacity:1"
+           id="flowRegion6533"><rect
+             style="fill:#000071;fill-opacity:1"
+             y="2728.6577"
+             x="5635.6411"
+             height="260.35147"
+             width="325.37027"
+             id="rect6531" /></flowRegion><flowPara
+           style="font-size:192px;fill:#000071;fill-opacity:1"
+           id="flowPara6535">...</flowPara></flowRoot>    </g>
   </g>
 </svg>
