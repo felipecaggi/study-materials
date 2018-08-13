@@ -54,6 +54,8 @@ This repository is intended for a web application that contains information abou
 
     11/08/2018 - Working on folder ui-design.
 
+    12/08/2018 - Working on folder ui-design;
+               - Initialized development of html-tags page.
 
 ## SITEMAP
 
@@ -61,11 +63,15 @@ This repository is intended for a web application that contains information abou
 
 ### HOMEPAGE
 
-![Figure 1](ui-design/images/page-home.png "Main page")
+![Figure 2](ui-design/images/page-home.png "Main page")
 
 ### HTML PAGE
 
-![Figure 2](ui-design/images/page-html.png "Html page")
+![Figure 3](ui-design/images/page-html.png "Html page")
+
+### HTML-TAGS PAGE
+
+![Figure 4](ui-design/images/page-html-tags.png "Page of tags HTML")
 
 ## Acronyms
 

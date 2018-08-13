@@ -1,0 +1,37 @@
+/* ~~~~~~~~~~~~~~~~~~~~ GENERAL SETUP ~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~ GENERAL TYPOGRAFY ~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~ HEADER ~~~~~~~~~~~~~~~~~~~~~~~ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~ MAIN ~~~~~~~~~~~~~~~~~~~~~~~~~ */
+.html-tags-page {
+    color: rgba(0, 0, 113, 255);
+}
+.column li {
+    display: flex;
+    padding: 5px;
+    position: relative;
+}
+
+.feature-containers .column h2 {
+    color: rgba(0, 0, 113, 255);
+    padding: 0.6% 0 0 0;
+}
+
+.feature-containers .column p {
+    padding: 1.5% 0 0 20px;
+}
+
+.container-bar {
+    background-color: rgba(0, 0, 113, 255);
+    border-radius: 5px;
+    height: 5px;
+}
+
+.bar-smaller {
+    margin: 5px 0px;
+    width: 350px;
+}
+
+.bar-biggester {
+    width: 1400px;
+}
+/* ~~~~~~~~~~~~~~~~~~~~~~~ FOOTER ~~~~~~~~~~~~~~~~~~~~~~~ */
