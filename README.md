@@ -57,6 +57,8 @@ This repository is intended for a web application that contains information abou
     12/08/2018 - Working on folder ui-design;
                - Initialized development of html-tags page.
 
+    13/08/2019 - Working on folder ui-design.
+
 ## SITEMAP
 
 ![Figure 1](ui-design/images/sitemap.png "Sitemap of site")

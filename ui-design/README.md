@@ -41,6 +41,8 @@
                - Updated sitemap.svg file;
                - Updated sitemap.png file;
 
+    13/08/2018 - Updated html-tags.svg;
+
 ### Site Map
 
 ![Figure 1](images/sitemap.png "Site Map")
